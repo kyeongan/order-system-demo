@@ -1,0 +1,23 @@
+{
+  "name": "order-system",
+  "version": "1.0.0",
+  "description": "Event-driven order processing system demonstrating microservices architecture patterns",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "event-driven",
+    "microservices",
+    "order-processing",
+    "nodejs",
+    "architecture-demo"
+  ],
+  "author": "Programming Exercises",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
